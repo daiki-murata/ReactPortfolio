@@ -1,0 +1,24 @@
+.Contact {
+    background: #361e46;
+    height: 35vh;
+    display: flex;
+    align-items: center;
+}
+
+.Contact h1 {
+    color: white;
+}
+ 
+.Contact .ContactIcons {
+    padding: 10px;
+}
+
+.Contact .ContactIcons {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.Contact .ContactIcons svg path{
+    cursor: pointer;
+}
