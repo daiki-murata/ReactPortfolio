@@ -47,6 +47,7 @@ const Work = () => {
                 x: '-100vw'
             })
         }
+        // eslint-disable-next-line
     },[inView])
 
 
