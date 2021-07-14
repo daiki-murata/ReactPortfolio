@@ -19,6 +19,6 @@
     justify-content: center;
 }
 
-.Contact .ContactIcons svg path{
+.Contact .GithubIcon {
     cursor: pointer;
 }
